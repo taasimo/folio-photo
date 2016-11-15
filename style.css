@@ -1,0 +1,34 @@
+body {
+   background-color:  #f5f5ef;
+}
+.teal-text {
+    font-weight: bold;
+    text-align: center;
+}
+ .materialboxed {
+	float: right;
+	height: 300px;
+
+}
+.image {
+    border-radius: 5px;
+}
+#profile-page-header .card-image {
+  height: 225px;
+}
+ body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+  .page-footer {
+     color: 
+  }
+  .nav-wrapper {
+    color: #999966;
+  }
+      
